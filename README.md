@@ -8,6 +8,21 @@
 <img align="right" alt="Girl Coding" src="girl.png" width="300"/>
 
 ### 👩‍💻 About Me
+public class AboutMe {
+
+    public static void main(String[] args) {
+
+        String name = "Gomithra Ekambaram";
+        String role = "Student";
+        String learning = "Java, HTML, CSS";
+        String goal = "Software Developer";
+
+        System.out.println("Name : " + name);
+        System.out.println("Role : " + role);
+        System.out.println("Learning : " + learning);
+        System.out.println("Goal : " + goal);
+    }
+}
 - 🌱 Currently learning *Java & Web Development*
 - 💡 Interested in *Frontend Development*
 - 🎯 Goal: Become a professional software developer
