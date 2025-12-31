@@ -52,7 +52,7 @@ public class AboutMe {
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=EKAMBARAM-GOMITHRA&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=EKAMBARAM-GOMITHRA&theme=tokyonight" width="48%"/>
 </p>
 
 ---
