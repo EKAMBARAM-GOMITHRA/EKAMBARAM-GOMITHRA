@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Anime Girl Coding" src="anime-girl.gif" width="300"/>
+<img align="right" alt="Anime Girl Coding" src="./anime-girl.gif" width="300"/>
 
 ### 👩‍💻 About Me
 public class AboutMe {
