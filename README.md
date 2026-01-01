@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=E%20Gomithra&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Java%20Developer&descSize=18&descAlignY=65)
 
 ### 👩‍💻 About Me
----
+
 <img align="right" alt="Anime Girl Coding" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="368"/>
 public class AboutMe {
 
@@ -25,10 +25,8 @@ public class AboutMe {
 - 🎯 Goal: Become a professional software developer
 - ✨ I love learning by building projects
 
----
-
 ## 🧰 Tech Stack
----
+
 ### 🎨 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -44,8 +42,6 @@ public class AboutMe {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
 
 ### 🔗 Connect with Me
 <p>
