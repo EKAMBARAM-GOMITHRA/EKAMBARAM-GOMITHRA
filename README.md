@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Anime Girl Coding" src="./anime.gif" width="300"/>
+<img align="right" alt="Anime Girl Coding" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="300"/>
 
 ### 👩‍💻 About Me
 public class AboutMe {
