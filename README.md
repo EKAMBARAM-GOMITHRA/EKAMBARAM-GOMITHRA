@@ -50,26 +50,19 @@ public class AboutMe {
   <a href="mailto:ekambaramgomithra3@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge"/></a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=EKAMBARAM-GOMITHRA&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=EKAMBARAM-GOMITHRA&theme=tokyonight" width="48%"/>
 </p>
 
----
-
 ##🚀 Projects
 - 🌐 Portfolio Website (Coming Soon)
 - 📝 HTML Practice Projects
 - ☕ Java Basics Programs
 
----
-
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)
