@@ -43,7 +43,7 @@ public class AboutMe {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/gomithraekambaram/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
@@ -52,7 +52,7 @@ public class AboutMe {
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=EKAMBARAM-GOMITHRA&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=EKAMBARAM-GOMITHRA&theme=tokyonight" width="48%"/>
@@ -60,7 +60,7 @@ public class AboutMe {
 
 ---
 
-### 🚀 Projects
+##🚀 Projects
 - 🌐 Portfolio Website (Coming Soon)
 - 📝 HTML Practice Projects
 - ☕ Java Basics Programs
@@ -69,4 +69,7 @@ public class AboutMe {
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
+</p>
+<p align="center">
+  <img src="banner.png" alt="Banner" />
 </p>
