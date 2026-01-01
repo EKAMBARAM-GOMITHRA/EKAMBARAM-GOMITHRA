@@ -1,6 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gomithra%20Ekambaram&desc=Full%20Stack%20Java%20Developer&descAlign=50&descAlignY=70)
-<h3 align="center">Full Stack Java Developer</h3>
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=E%20Gomithra&desc=Full%20Stack%20Java%20Developer&descAlign=50&descAlignY=70)
 ---
 ### 👩‍💻 About Me
 <img align="right" alt="Anime Girl Coding" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="368"/>
