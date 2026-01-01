@@ -14,11 +14,13 @@ public class AboutMe {
         String role = "Student";
         String learning = "Java, HTML, CSS";
         String goal = "Software Developer";
+        String passion = "☕ Tea + Code = ♥️";
 
         System.out.println("Name : " + name);
         System.out.println("Role : " + role);
         System.out.println("Learning : " + learning);
         System.out.println("Goal : " + goal);
+        System.out.println("Passion : " + passion);
     }
 }
 - 🌱 Currently learning *Java & Web Development*
