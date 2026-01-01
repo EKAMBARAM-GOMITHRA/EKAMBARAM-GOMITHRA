@@ -1,16 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=E%20Gomithra&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Java%20Developer&descSize=18&descAlignY=65)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=24
-    &duration=3000
-    &pause=1000
-    &color=6FA4FC
-    &center=true
-    &vCenter=true
-    &width=500
-    &lines=👋+Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Transforming+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=👋+Welcome+to+my+GitHub+Profile!;Full+Stack+Java+Developer" />
 </p>
 
 ## 👩‍💻 About Me
