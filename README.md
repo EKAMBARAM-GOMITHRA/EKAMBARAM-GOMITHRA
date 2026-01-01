@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=E%20Gomithra&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Java%20Developer&descSize=18&descAlignY=65)
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 <img align="right" alt="Anime Girl Coding" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="368"/>
 public class AboutMe {
