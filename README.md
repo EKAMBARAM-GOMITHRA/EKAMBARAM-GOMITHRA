@@ -42,7 +42,7 @@ public class AboutMe {
     }
 }
 - 🌱 Currently learning *Java & Web Development*
-- 💡 Interested in *Frontend Development*
+- 💡 Interested in *Modern Software Development*
 - 🎯 Goal: Become a professional software developer
 - ✨ I love learning by building projects
 
