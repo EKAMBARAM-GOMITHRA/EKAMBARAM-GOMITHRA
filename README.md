@@ -1,9 +1,26 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=E%20Gomithra&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Java%20Developer&descSize=18&descAlignY=65)
 
+<!-- TYPING WELCOME TEXT -->
 <p align="center">
-👋 Welcome to my GitHub Profile
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile!" />
 </p>
- 
+
+<!-- SOCIAL BUTTONS -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_message=Coming%20Soon&url=#"/></a>
+  <a href="https://www.linkedin.com/in/gomithraekambaram//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:ekambaramgomithra3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://wa.me/919347572296"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/></a>
+  <a href="https://github.com/EKAMBARAM-GOMITHRA"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+<!-- COUNTERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EKAMBARAM-GOMITHRA&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/EKAMBARAM-GOMITHRA?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/EKAMBARAM-GOMITHRA?label=Stars&style=for-the-badge"/>
+</p>
+
 ## 👩‍💻 About Me
 
 <img align="right" alt="Anime Girl Coding" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" width="368"/>
