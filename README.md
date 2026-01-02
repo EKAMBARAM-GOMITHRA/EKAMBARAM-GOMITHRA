@@ -87,10 +87,8 @@ public class AboutMe {
 > **"Engineering is not just coding, it’s problem solving."**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
 </p>
-
-
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
