@@ -7,7 +7,7 @@
 
 <!-- SOCIAL BUTTONS -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_message=Coming%20Soon&url=#"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/gomithraekambaram//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:ekambaramgomithra3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://wa.me/919347572296"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/></a>
