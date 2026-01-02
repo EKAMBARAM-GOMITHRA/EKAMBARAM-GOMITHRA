@@ -87,8 +87,9 @@ public class AboutMe {
 > **"Engineering is not just coding, it’s problem solving."**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game animation"/>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300"/>
 </p>
+
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
