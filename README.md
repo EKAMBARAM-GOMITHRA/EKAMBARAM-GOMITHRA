@@ -87,11 +87,12 @@ public class AboutMe {
 > **"Engineering is not just coding, it’s problem solving."**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
+<!-- ENDING TYPING TEXT -->
 <p align="center">
-✨ Thanks for visiting my profile ✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=🙏+Thank+you+for+visiting+my+GitHub+profile!" />
 </p>
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)
