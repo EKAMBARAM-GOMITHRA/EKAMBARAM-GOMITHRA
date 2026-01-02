@@ -82,6 +82,14 @@ public class AboutMe {
 - 📝 HTML Practice Projects
 - ☕ Java Basics Programs
 
+## 💬 Quote I Live By
+
+> **"Engineering is not just coding, it’s problem solving."**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game animation"/>
+</p>
+
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
