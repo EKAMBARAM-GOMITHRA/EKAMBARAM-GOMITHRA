@@ -30,7 +30,7 @@ public class AboutMe {
 
         String name = "Gomithra Ekambaram";
         String role = "Student";
-        String learning = "Java, HTML,JavaScript,CSS,MySql";
+        String learning = "Java, HTML, JavaScript, CSS, MySql";
         String goal = "Software Developer";
         String passion = "☕ Tea + Code = ♥️";
 
